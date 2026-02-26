@@ -1,4 +1,9 @@
 streamlit
 scikit-learn
 pandas
+
 numpy
+torch
+transformers
+huggingface_hub
+safetensors
